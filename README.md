@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Rohit Kumar here</h1>  
 <h3 align="center">View my love for using code to create outstanding web experiences by visiting my GitHub repositories</h3>  
-![enter image description here](https://photos.app.goo.gl/8fU75k63KFwxh6Ef8)
+
   
 - 💻 I'm currently **developing a web application for EdTech**  
   
