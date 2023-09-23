@@ -1,4 +1,4 @@
-[logo](https://github.com/rohitkumar1502/rohitkumar1502/blob/main/Purple%20and%20Yellow%20Colorful%20Gradient%20Motivational%20Quote%20LinkedIn%20Article%20Cover%20Image.png)
+![logo](https://github.com/rohitkumar1502/rohitkumar1502/blob/main/Purple%20and%20Yellow%20Colorful%20Gradient%20Motivational%20Quote%20LinkedIn%20Article%20Cover%20Image.png)
 
 <h1 align="center">Hi 👋, Rohit Kumar here</h1>  
 <h3 align="center">View my love for using code to create outstanding web experiences by visiting my GitHub repositories</h3>  
