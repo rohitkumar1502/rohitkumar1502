@@ -10,7 +10,7 @@
   
 - 📫 You can reach me at **krohitgupta1502@gmail.com**  
   
-- 📄 Be aware of my experiences [[https://drive.google.com/file/d/1SQnJbIskVKn7h3eQQzQb7QpogfLUoQ7p/view?usp=sharing](https://drive.google.com/file/d/1SQnJbIskVKn7h3eQQzQb7QpogfLUoQ7p/view?usp=sharing](https://drive.google.com/file/d/1xXUh9QTPsFpw6ewVbYSgtZrKGVTaxceB/view?usp=sharing)
+- 📄 Be aware of my experiences [ https://drive.google.com/file/d/1xXUh9QTPsFpw6ewVbYSgtZrKGVTaxceB/view?usp=sharing ]
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
